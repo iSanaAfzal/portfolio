@@ -1,0 +1,492 @@
+
+.folio h1{
+font-size: 37px;
+font-weight: bold;
+font-family: sans serif;
+margin-top:-12px;
+}
+.folio span{
+    color: #0bceaf;
+}
+body,html{
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+
+.navbar{
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);;
+}
+.home{
+   
+    font-size: 16px;
+font-weight: 600;
+color: black;
+font-family: sans-serif;
+}
+.home:hover{
+    color: #0bceaf; 
+}
+.about{
+    color: #0bceaf;
+}
+.hire-btn{
+    padding: 5px 10px;
+border: 1px solid #0bceaf;
+border-radius: 8px;
+background: white;
+font-weight: 600;
+font-size: 17px;
+color:#0bceaf;
+    margin-left: 354px;
+    margin-top: 8px;
+}
+.hire-btn:hover{
+    color:white;
+    background:#0bceaf;
+}
+.bg-image{
+    background-image: url('bg-image.jpg');
+    position:relative;
+    background-size: cover;
+    width:100%;
+    height:100vh;
+    background-repeat: no-repeat;
+    margin-top:-16px;
+}
+.name h1{
+        padding-top: 195px;
+    font-size: 61px;
+    font-weight: 700;
+    font-style: oblique;
+    
+}
+.name h1:hover{
+opacity: 0.7s;
+color:#0bceaf
+}
+.name p{
+    font-size: 18px;
+    line-height: 45px;
+    color: grey;
+    font-weight: 500;
+    font-family: sans-serif;
+    
+}
+.about-btn{
+        font-size: 16px;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 23px;
+    background:#0bceaf ;
+    color:white;
+    font-weight:600;
+    
+
+}
+.about-btn:hover{
+color:black;
+background:lightblue;
+}
+.About{
+    justify-content:center;
+    text-align: center;
+    padding-top:60px;
+}
+.About h1{
+    font-weight: 700;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.About h1:hover{
+    color:#0bceaf
+}
+.About p{
+        color: #6e6b6b;
+    font-weight: 500;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.about-img{
+        height: 354px;
+    border-radius: 59px;
+}
+.fname label{
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+    margin-right: 12px;
+}
+.fname p{
+color: grey;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: sans-serif;
+    margin-top: 3px;
+}
+.aboutcard{
+     margin-left: 30px;
+     box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+     
+}
+.educationcard{
+     box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px; 
+         margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.wrapper {
+display: inline-flex;
+
+}
+.wrapper .icon {
+    padding-bottom: 29px;
+    position: relative;
+    background-color: #f4eeee;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 10px 10px rgb(0 0 0 / 10%);
+    cursor: pointer;
+   
+    border-radius: 30px;
+    font-size: 22px;
+}
+.instagram span i{
+    font-size :25px;
+    color:red;
+    margin-top:32px;
+}
+.youtube span i{
+   font-size :25px;
+    color:red;
+     margin-top:32px; 
+}
+.facebook span i{
+    font-size :25px;
+    color:#4267B2;
+     margin-top:32px;
+}
+.github span i{
+    margin-top:32px;
+}
+.twitter span i{
+    margin-top:32px;
+}
+.wrapper .icon:hover{
+    background:rgb(196, 189, 189)
+}
+.cardcontent{
+    padding-top: 20px;
+        margin-left: 35px;
+        margin-bottom:20px;
+}
+
+.myresume h1{
+ justify-content: center;
+    text-align: center;  
+    margin-top: 60px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.myresume h1 span{
+    color:#0bceaf;
+}
+.education h2{
+        margin-top: 30px;
+    font-size: 25px;
+    font-weight: 700;
+    border-bottom: 4px solid #0bceaf;
+    width: 67px;
+    padding-bottom: 5px;
+}
+.bechlours h6{
+        margin-top: 5px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.bechloursp{
+        font-size: 16px;
+    margin-left: 39px;
+    color: darkgrey;
+    font-weight: 500;
+}
+.photoshop h5{
+    padding-left:319px;
+    color:black;
+    font-weight:700;
+}
+.photoshop h4{
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+}
+.photo{
+    margin-left:35px;
+}
+
+.progress{
+    width: 452px;
+    margin-top: 3px;
+    padding: 1px;
+}
+.card-color{
+        margin-top: 39px;
+    border: none;
+    box-shadow: 0 10px 10px rgb(0 0 0 / 10%);
+    background:#efeff7;
+}
+.card-color:hover{
+    background:#d8d8dd;
+}
+.line{
+    border-left:1px solid red;
+    height:150px;
+    margin-left: 10px;
+}
+.experiance h6{
+color: grey;
+    font-size: 15px;
+    font-weight: 700
+}
+.experiance h4{
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.experiance span{
+        color: green;
+}
+.experiance p{
+    font-family: Roboto,sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6c757d;
+    text-align: left;
+    margin-right:15px;
+}
+.present{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.card-experiance{
+    border:0;
+      box-shadow: 0 10px 10px rgb(0 0 0 / 10%);
+}
+.download-btn{
+         margin-top: 50px;
+    padding: 11px 32px;
+    border-radius: 35px;
+    border: none;
+    background: rgba(102, 51, 153, 0.986);
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+    margin-left:446px;
+}
+.download-btn:hover{
+    background:rgb(107, 72, 107)
+}
+/* .......PORTFOLIO CSS...... */
+
+.gallery-title
+{
+       justify-content: center;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color:#0bceaf;
+}
+.gallery-title:after {
+    content: "";
+    position: absolute;
+    width: 7.5%;
+    left: 46.5%;
+    height: 45px;
+    
+}
+ .filter-button
+{
+    font-size: 18px;
+    border: 1px solid #42B32F;
+    border-radius: 5px;
+    text-align: center;
+    color: #42B32F;
+    margin-top: 30px;
+    
+
+} 
+.filter-button:hover
+{
+    font-size: 14px;
+    border: 1px solid #42B32F;
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #0bceaf;
+
+}
+.btn-default:active .filter-button:active
+{
+    background-color: #42B32F;
+    color: white;
+    border:none;
+}  
+.btn-default {
+    color: white;
+    background-color: #0bceaf;
+    border-color: none;
+    font-weight: 600;
+    font-size: 14px;
+    margin-left: 10px;
+    
+}
+
+.port-image
+{
+    width: 100%;
+}
+
+.gallery_product
+{margin-top:35px;
+   
+}
+.development{
+        font-size: 18px;
+    color: black;
+    font-weight: 600;
+        font-family: sans-serif;
+}
+.para{
+        font-family: Roboto,sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6c757d;
+}
+.name{}
+.formbody{
+        margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 27px;
+}
+.name-label{
+        font-size: 16px;
+    font-family: sans-serif;
+    margin-bottom: 12px;
+}
+.dark{
+    float: right;
+    margin-top: 9px;
+}
+/* ...Footer Container..... */
+.footer-container{
+  padding-top:100px;
+  padding-bottom:100px;
+}
+.my-section{
+    background:#0bceaf;
+   margin-top:50px;
+}
+.textwhite{
+    color: #fff!important;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 31px;
+}
+.px-3{
+        padding-right: 1rem!important;
+            padding-right: 1rem!important;
+            color:white;
+                margin-top: 30px;
+}
+.border-bottom{
+        margin-top: 30px;
+}
+.textpara{
+    color: white;
+    padding-top:25px;
+}
+
+  /* .........Media Query....... */
+@media only screen and ( max-width: 375px )  {
+  .bg-image{
+height:50vh;
+
+  }
+.name h1{
+       font-size: 23px;
+    margin-top: -106px;
+    font-weight: 700;
+}
+.name p{
+        font-size: 9px;
+    line-height: 20px;
+    font-weight: bold;
+}
+.about-btn{
+        font-size: 10px;
+    padding: 5px 10px;
+}
+.about-img{
+        margin-left: -20px;
+}
+.cardcontent{
+    margin-left:0;
+}
+.photo{
+        margin-left: 0px;
+    margin-right: 0px;
+}
+.photoshop h4{
+font-size: 13px;
+}
+.photoshop h5{
+margin-left: -93px;
+}
+.progress{
+        width: 315px;
+}
+.experiance h4{
+        font-size: 15px;
+}
+.experiance h6{
+        font-size: 11px;
+    margin-top: -4px;
+}
+.experiance p{
+    font-size: 12px;
+}
+.line{
+    height: 171px;
+}
+.gallery-title{
+    margin-top: -55px;
+}
+.cardset{
+        margin-top: 17px;
+}
+.textpara{
+        font-size: 14px;
+}
+.wrapper .icon{
+    margin-left:1px;
+}
+
+
+}
